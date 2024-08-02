@@ -1,0 +1,12 @@
+
+.App {
+  text-align: center;
+  
+}
+
+.usercard {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  color: blue;
+}
